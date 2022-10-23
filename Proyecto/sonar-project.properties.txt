@@ -1,0 +1,4 @@
+sonar.projectKey=Proyecto
+sonar.projectName=Proyecto
+sonar.projectVersion=0.1
+sonar.sources=C:\Users\reyes\Documents\NetBeansProjects\Proyecto\src
